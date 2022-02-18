@@ -1,0 +1,36 @@
+R version 4.1.2 (2021-11-01)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Big Sur 11.6
+
+Matrix products: default
+LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_GB.UTF-8/en_GB.UTF-8/en_GB.UTF-8/C/en_GB.UTF-8/en_GB.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.3.5   Rcompadre_1.1.0
+
+loaded via a namespace (and not attached):
+ [1] progress_1.2.2    tidyselect_1.1.1  xfun_0.29        
+ [4] purrr_0.3.4       splines_4.1.2     lattice_0.20-45  
+ [7] colorspace_2.0-2  vctrs_0.3.8       generics_0.1.2   
+[10] expm_0.999-6      htmltools_0.5.2   mgcv_1.8-38      
+[13] yaml_2.2.2        utf8_1.2.2        XML_3.99-0.8     
+[16] rlang_1.0.1       pillar_1.7.0      withr_2.4.3      
+[19] DBI_1.1.2         glue_1.6.1        rentrez_1.2.3    
+[22] lifecycle_1.0.1   munsell_0.5.0     gtable_0.3.0     
+[25] evaluate_0.14     labeling_0.4.2    knitr_1.37       
+[28] fastmap_1.1.0     parallel_4.1.2    fansi_1.0.2      
+[31] Rcpp_1.0.8        scales_1.1.1      jsonlite_1.7.3   
+[34] farver_2.1.0      popdemo_1.3-1     hms_1.1.1        
+[37] digest_0.6.29     rncl_0.8.4        dplyr_1.0.8      
+[40] grid_4.1.2        cli_3.1.1         tools_4.1.2      
+[43] magrittr_2.0.2    tibble_3.1.6      crayon_1.4.2     
+[46] ape_5.6-1         pkgconfig_2.0.3   ellipsis_0.3.2   
+[49] Matrix_1.3-4      prettyunits_1.1.1 assertthat_0.2.1 
+[52] rmarkdown_2.11    httr_1.4.2        R6_2.5.1         
+[55] rotl_3.0.12       nlme_3.1-153      compiler_4.1.2   
